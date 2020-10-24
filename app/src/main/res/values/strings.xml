@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Whether App</string>
+    <string name="int_c">%d C</string>
+</resources>
